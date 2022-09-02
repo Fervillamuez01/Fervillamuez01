@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Fernamdo Villamuez
+### Hi there 👋 i'm Fernando Villamuez
 
 <!--
 **Fervillamuez01/Fervillamuez01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
